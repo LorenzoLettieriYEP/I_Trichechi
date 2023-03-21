@@ -22,10 +22,10 @@
 
         <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-              <a class="nav-link active" href="#">Login</a>
+              <a class="nav-link active" href="{{route("login")}}">Login</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="#">Register</a>
+                <a class="nav-link active" href="{{route("register")}}">Register</a>
               </li>
             
           </ul>
